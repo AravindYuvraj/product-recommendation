@@ -26,7 +26,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aravi/ecommerce-recommendation-app.git"
+    "url": "https://github.com/AravindYuvraj/product-recommendation.git"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",

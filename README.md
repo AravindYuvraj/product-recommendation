@@ -71,8 +71,8 @@ A full-stack web application featuring intelligent product recommendations power
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ecommerce-recommendation-app
+   git clone https://github.com/AravindYuvraj/product-recommendation.git
+   cd product-recommendation
    ```
 
 2. **Install backend dependencies**
