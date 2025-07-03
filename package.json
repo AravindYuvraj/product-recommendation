@@ -1,0 +1,44 @@
+{
+  "name": "ecommerce-recommendation-app",
+  "version": "1.0.0",
+  "description": "A full-stack e-commerce application with AI-powered product recommendations using collaborative filtering and content-based filtering algorithms",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js",
+    "dev:simple": "nodemon server/index-simple.js",
+    "seed": "node server/utils/seedDatabase.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "recommendations",
+    "ai",
+    "machine-learning",
+    "collaborative-filtering",
+    "content-based-filtering",
+    "react",
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "aravi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aravi/ecommerce-recommendation-app.git"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.1",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4",
+    "supertest": "^7.1.1"
+  }
+}
