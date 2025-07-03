@@ -1,10 +1,5 @@
 # E-Commerce AI Recommendation System
 
-[![Node.js](https://img.shields.io/badge/Node.js-v14%2B-green)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-18.0%2B-blue)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.4%2B-green)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/License-ISC-yellow)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A full-stack web application featuring intelligent product recommendations powered by AI algorithms including collaborative filtering and content-based filtering.
 
